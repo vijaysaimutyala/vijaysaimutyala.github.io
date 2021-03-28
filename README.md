@@ -1,2 +1,3 @@
 # vijaysaimutyala.github.io
-My blog
+[My Blog](https://vijaysaimutyala.github.io)
+
